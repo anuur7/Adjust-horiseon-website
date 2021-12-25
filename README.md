@@ -10,6 +10,8 @@ I have improved the codebase for long-term sustainability by checking that all l
 
 ・ Added descriptive alt attributes to the pictures.
 
+・ Put the header tags in order from h1 to h4 from the header to the footer.
+
 
 Deployed URL : https://anuur7.github.io/Adjust-horiseon-website/
 
